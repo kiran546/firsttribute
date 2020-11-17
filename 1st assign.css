@@ -1,0 +1,39 @@
+h1{
+	color:brown;
+	border:2px solid black;
+	width:350px;
+	padding:10px; 
+	margin:5px;
+
+
+}
+
+body{
+   background:#00FFFF;
+	font-family: 'Open Sans', sans-serif;
+	font-size:15px;
+	font-weight:normal; 
+	border:3px solid blue;
+	padding:2px 3px 2px 2px;
+
+}
+
+
+
+img{
+	padding-left:5px;  
+}
+
+
+.index
+{
+  background-color:red;
+}
+
+
+
+#solid {
+	color:rgba((153, 0, 0,0.3);
+}
+
+
